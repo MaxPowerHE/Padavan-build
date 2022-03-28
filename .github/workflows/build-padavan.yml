@@ -100,5 +100,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: Padavan-packages-JCG-836PRO(1)
+        name: Padavan-packages-JCG-836PRO(x)
         path: /opt/images
